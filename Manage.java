@@ -3,10 +3,14 @@
 //BSIT3A,2nd SEMESTER
 //08-02-2024
 //IT106-Application Development
+
+//JAVA
+//This code is intended to append to txt file, email addreses that is inputted by the user
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
+
 
 public class Manage {
 
